@@ -1,0 +1,24 @@
+NOME_CLIENTE = ADERBAL NUNES FERREIRA
+NUMERO_CPF   = 999.999.999-00
+CONTATO      = 55 5555-5555
+EMAIL        = aderbalnunes@cliente.com.br
+
+NOME_CLIENTE = AFONSO SONIC WALL
+NUMERO_CPF   = 888.888.888-88
+CONTATO      = 55 5555-4444
+EMAIL        = sonicwall@cliente.com.br
+
+NOME_CLIENTE = FRANCISCO FORTINET
+NUMERO_CPF   = 777.777.777-77
+CONTATO      = 55 3333-3333
+EMAIL        = chico_fortinet@cliente.com.br
+
+NOME_CLIENTE = ZEBRA PALO ALTO NETWORKS
+NUMERO_CPF   = 666.666.666-66
+CONTATO      = 55 6666-6666
+EMAIL        = zebrinha_palo_alto@cliente.com.br
+
+
+
+@dimitrebrasil
+ 
